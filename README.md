@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a 3rd engineering student pursuing B.E. in ENI and M.Sc. in Mathematics at the prestigious Birla Institute of Technology and Science, Pilani. I'm a perpetual learner, often spending late nights experimenting with code and contributing to the Stack Overflow community. In high school, I discovered my true calling in computer science, which has been my path ever since. My love for programming deepens as my journey unfolds.
+I'm a 3rd engineering student pursuing B.E. in ENI and M.Sc. in Mathematics at the prestigious Birla Institute of Technology and Science, Pilani. I'm a perpetual learner, often spending late nights experimenting with code and contributing to the Stack Overflow community.
+In high school, I discovered my true calling in computer science, which has been my path ever since. My love for programming deepens as my journey unfolds.
 
 ## 🔧 Skills and Technologies
 - React
